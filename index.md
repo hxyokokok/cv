@@ -4,7 +4,7 @@ layout: default
 
 <!-- ## About Me -->
 
-<!-- <img class="profile-picture" src="me.jpg"> -->
+<img class="profile-picture" src="me.jpg"> 
 
 Associate Professor, School of Software Engineering, Sun Yat-sen University
 
