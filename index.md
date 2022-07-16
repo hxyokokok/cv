@@ -2,10 +2,9 @@
 layout: default
 ---
 
-# Xiaoyu He (何笑雨)
 <!-- ## About Me -->
 
-<img class="profile-picture" src="me.jpg"> 
+<!-- <img class="profile-picture" src="me.jpg"> -->
 
 Associate Professor, School of Software Engineering, Sun Yat-sen University
 
@@ -38,40 +37,23 @@ hxyokokok@foxmail.com, hexy_gz@outlook.com
 
 ## Appointments 
 
-`2022-Present` __Sun Yat-sen University__
+- 2022-Present, __Sun Yat-sen University__, Associate Professor
 
-- Associate Professor
+- 2021-2022, __Nanyang Technological University__, Research Fellow
 
-`2021-2022` __Nanyang Technological University__
-
-- Research Fellow
-
-`2019-2021` __Sun Yat-sen University__
-
-- Postdoctoral Researcher
+- 2019-2021, __Sun Yat-sen University__, Postdoctoral Researcher
 
 ## Education
 
-`2016-2019`
-__Sun Yat-sen University__
+- 2016-2019, __Sun Yat-sen University__, Ph.D. in Computer Science
 
-- Ph.D. in Computer Science
+- 2013-2016, __South China University of Technology__, Master of Public Administration
 
-`2013-2016`
-__South China University of Technology__
-
-- Master of Public Administration
-
-`2006-2010`
-__Beijing Electronic Science and Technology Institute__
-
-- B.Eng. in Computer Science
+- 2006-2010, __Beijing Electronic Science and Technology Institute__, B.Eng. in Computer Science
 
 ## Awards
 
-`2020` 
-__Outstanding Doctoral Dissertation Award__, ACM Guangzhou
-
+- 2020, __Outstanding Doctoral Dissertation Award__, ACM Guangzhou
 
 
 ## Publications
@@ -124,21 +106,21 @@ __Outstanding Doctoral Dissertation Award__, ACM Guangzhou
 
 ## Grants
 
-`2020-2022` __National Natural Science Foundation of China__
+- 2020-2022, __National Natural Science Foundation of China__
 
-- *Covariance Matrix Adaptation Evolution Strategy for Large-Scale Black-Box Optimization*, No. 62006252, PI
+    - *Covariance Matrix Adaptation Evolution Strategy for Large-Scale Black-Box Optimization*, No. 62006252, PI
 
-`2021-2022` __Guangdong Basic and Applied Basic Research Foundation__
+- 2021-2022, __Guangdong Basic and Applied Basic Research Foundation__
 
-- *Information-Geometric Optimization for Federated Learning*, No. 2021A1515011840, PI
+    - *Information-Geometric Optimization for Federated Learning*, No. 2021A1515011840, PI
 
-`2020-2021` __Guangdong Basic and Applied Basic Research Foundation__
+- 2020-2021, __Guangdong Basic and Applied Basic Research Foundation__
 
-- *Mixture Model based Large-Scale Evolution Strategies*, No. 2019A1515111154, PI
+    - *Mixture Model based Large-Scale Evolution Strategies*, No. 2019A1515111154, PI
 
-`2019-2021` __China Postdoctoral Science Foundation__
+- 2019-2021, __China Postdoctoral Science Foundation__
 
-- *Evolutionary Multiobjective Optimization with Complex Decision Space*, No. 2019M663234, PI
+    - *Evolutionary Multiobjective Optimization with Complex Decision Space*, No. 2019M663234, PI
 
 ## Service
 
