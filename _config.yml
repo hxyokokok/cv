@@ -1,13 +1,13 @@
 title: Xiaoyu He's Homepage
 url: "https://hxyokokok.github.io"
-baseurl: "/cv"
+#baseurl: "/cv"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 #footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Xiaoyu He"
 
