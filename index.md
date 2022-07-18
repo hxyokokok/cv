@@ -6,10 +6,8 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-I am currently an Associate Professor in the School of Software Engineering, Sun Yat-sen University. Previously, I was a Research Fellow working at Nanyang Technological University. Before that, I was a Postdoctoral Researcher 
-in the School of Computer Science and Engineering, Sun Yat-sen University. In June 2019, I obtained my Ph.D. degree in Computer Science and Technology from Sun Yat-sen University.
+I am currently an Associate Professor in the School of Software Engineering, Sun Yat-sen University. Previously, I was a Postdoctoral Researcher working at Nanyang Technological University and Sun Yat-sen University. I obtained my Ph.D. degree in Computer Science and Technology from Sun Yat-sen University in June 2019.
 
-hxyokokok@foxmail.com, hexy_gz@outlook.com
 
 ## Research interests
 
@@ -126,6 +124,13 @@ hxyokokok@foxmail.com, hexy_gz@outlook.com
 
 Reviewer for *IEEE Transactions on Evolutionary Computation*, *IEEE Transactions on Cybernetics*, *Applied Intelligence*, *Applied Soft Computing*, and *Swarm and Evolutionary Computation*.
 
+## Contact
+
+Email: hxyokokok@foxmail.com
+
+ResearchGate: https://www.researchgate.net/profile/Xiaoyu-He-9
+
+GitHub: https://github.com/hxyokokok
 
 <!-- ## Typography
 
