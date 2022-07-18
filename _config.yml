@@ -1,4 +1,4 @@
-title: Xiaoyu He
+title: Xiaoyu He's Homepage
 url: "https://hxyokokok.github.io"
 baseurl: "/cv"
 
@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: yes
+#footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Xiaoyu He"
 
 sass:
     style: compressed
