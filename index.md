@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<!-- ## About Me -->
+## About Me
 
-<img class="profile-picture" src="me.jpg"> 
+<img class="profile-picture" src="me.jpg">
 
-Associate Professor, School of Software Engineering, Sun Yat-sen University
+I am currently an Associate Professor in the School of Software Engineering, Sun Yat-sen University. Previously, I was a Research Fellow working at Nanyang Technological University. Before that, I was a Postdoctoral Researcher 
+in the School of Computer Science and Engineering, Sun Yat-sen University. In June 2019, I obtained my Ph.D. degree in Computer Science and Technology from Sun Yat-sen University.
 
 hxyokokok@foxmail.com, hexy_gz@outlook.com
-
 
 ## Research interests
 
@@ -35,25 +35,25 @@ hxyokokok@foxmail.com, hexy_gz@outlook.com
 
     - Black-box policy search
 
-## Appointments 
+<!-- ## Appointments 
 
-- 2022-Present, __Sun Yat-sen University__, Associate Professor
+- 2022-Present, Sun Yat-sen University, Associate Professor
 
-- 2021-2022, __Nanyang Technological University__, Research Fellow
+- 2021-2022, Nanyang Technological University, Research Fellow
 
-- 2019-2021, __Sun Yat-sen University__, Postdoctoral Researcher
+- 2019-2021, Sun Yat-sen University, Postdoctoral Researcher
 
 ## Education
 
-- 2016-2019, __Sun Yat-sen University__, Ph.D. in Computer Science
+- 2016-2019, Sun Yat-sen University, Ph.D. in Computer Science
 
-- 2013-2016, __South China University of Technology__, Master of Public Administration
+- 2013-2016, South China University of Technology, Master of Public Administration
 
-- 2006-2010, __Beijing Electronic Science and Technology Institute__, B.Eng. in Computer Science
+- 2006-2010, Beijing Electronic Science and Technology Institute, B.Eng. in Computer Science -->
 
-## Awards
+<!-- ## Awards
 
-- 2020, __Outstanding Doctoral Dissertation Award__, ACM Guangzhou
+- 2020, Outstanding Doctoral Dissertation Award, ACM Guangzhou -->
 
 
 ## Publications
@@ -106,25 +106,25 @@ hxyokokok@foxmail.com, hexy_gz@outlook.com
 
 ## Grants
 
-- 2020-2022, __National Natural Science Foundation of China__
+- 2020-2022, National Natural Science Foundation of China
 
     - *Covariance Matrix Adaptation Evolution Strategy for Large-Scale Black-Box Optimization*, No. 62006252, PI
 
-- 2021-2022, __Guangdong Basic and Applied Basic Research Foundation__
+- 2021-2022, Guangdong Basic and Applied Basic Research Foundation
 
     - *Information-Geometric Optimization for Federated Learning*, No. 2021A1515011840, PI
 
-- 2020-2021, __Guangdong Basic and Applied Basic Research Foundation__
+- 2020-2021, Guangdong Basic and Applied Basic Research Foundation
 
     - *Mixture Model based Large-Scale Evolution Strategies*, No. 2019A1515111154, PI
 
-- 2019-2021, __China Postdoctoral Science Foundation__
+- 2019-2021, China Postdoctoral Science Foundation
 
     - *Evolutionary Multiobjective Optimization with Complex Decision Space*, No. 2019M663234, PI
 
 ## Service
 
-__Reviewer__ for *IEEE Transactions on Evolutionary Computation*, *IEEE Transactions on Cybernetics*, *Applied Intelligence*, *Applied Soft Computing*, and *Swarm and Evolutionary Computation*.
+Reviewer for *IEEE Transactions on Evolutionary Computation*, *IEEE Transactions on Cybernetics*, *Applied Intelligence*, *Applied Soft Computing*, and *Swarm and Evolutionary Computation*.
 
 
 <!-- ## Typography
