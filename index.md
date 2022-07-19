@@ -3,7 +3,7 @@ layout: default
 ---
 # Xiaoyu He
 
-## About Me
+## About me
 
 <img class="profile-picture" src="me.jpg">
 
